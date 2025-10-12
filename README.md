@@ -1,4 +1,4 @@
-# Grid Analytics
+# Market Analytics
 
 ### PJM Energy Market Analysis and Forecasting 
 
